@@ -1,0 +1,65 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Quicksand|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Roboto+Mono');
+
+
+body{
+	background: #90d4bd;
+
+}
+
+h1{
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Quicksand', sans-serif;
+
+	font-size: 80px;
+
+}
+
+h2{
+	font-family: 'Major Mono Display', monospace;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+}
+
+h3{
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'Roboto Mono', monospace;
+}
+
+p{
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'Roboto Mono', monospace;
+}
+
+ul{
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'Roboto Mono', monospace;
+}
+
+header{
+	background: #609da0;
+	color: #ffffff;
+}
+
+.intro{
+	
+}
+
+.preamble{
+	
+}
